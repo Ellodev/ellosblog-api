@@ -1,0 +1,11 @@
+{
+    "posts": [
+      {
+        "id": "firstpost",
+        "title": "My First Post!!",
+        "date": "2020-11-15",
+        "description": "This is my First Post",
+        "text": "If u see this thx for being on my Website!"
+    }
+    ]
+  }
